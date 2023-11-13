@@ -1,6 +1,5 @@
 const fs = require('fs');
 
-// Specify the path to your log file
 const logFilePath = 'path/to/your/logfile.log';
 
 // Specify the keyword to monitor in the log file
